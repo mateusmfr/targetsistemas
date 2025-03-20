@@ -24,3 +24,9 @@ Antes de rodar o projeto, verifique se o Go está instalado na sua máquina. Cas
     ```bash
     go run main.go
     ```
+
+## 🗣 Me dê um feedback!
+
+Ficarei muito grato se você puder compartilhar seu feedback sobre este projeto. Seu retorno é essencial para o meu aprendizado e aprimoramento contínuo. Se você tiver qualquer sugestão, crítica construtiva ou comentário, por favor, não hesite em entrar em contato comigo.
+
+Meu email: `mateus.mfr10@gmail.com`
